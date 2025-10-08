@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niringiyimanareverien
-- 👀 I’m interested in Coding,ComputerScience and Algorithms
-- 🌱 I’m currently learning C++ and Java
+- 👀 I’m interested in Coding,ComputerScience, Data analyisis and Algorithms
+- 🌱 I’m proficient javascripts, typerscript, react.js and node.js 
 
 - 📫 How to reach me ...
  <div style="align:center">
